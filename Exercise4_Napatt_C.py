@@ -8,3 +8,4 @@ print("Foundation English :", found_eng)
 print("General Business :", gen_bu)
 print("Introduction to Computer Systems :", intro_com)
 print("Computer Programing :", com_pro)
+
